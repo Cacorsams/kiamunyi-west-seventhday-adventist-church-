@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "A showcase of my work and skills",
+  title: "Kiamunyi West Seventh-day Adventist Church",
+  description: "Kiamunyi West Seventh-day Adventist Church - Embracing Holistic Health and Spiritual Wellness through Faith and Community.",
 };
 
 export default function RootLayout({
