@@ -104,17 +104,21 @@ export default function HealthMinistrySabbathPage() {
             </div>
             
             <motion.div
-              className="bg-gradient-to-br from-green-100 to-amber-100 dark:from-green-900/30 dark:to-amber-900/30 rounded-2xl p-8 h-64 md:h-80 flex items-center justify-center"
+              className="relative overflow-hidden rounded-2xl h-64 md:h-80"
               initial={{ opacity: 0, scale: 0.9 }}
               whileInView={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.4 }}
             >
-              <div className="text-center">
-                <div className="w-20 h-20 bg-green-500 rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-3xl">⛪</span>
-                </div>
-                <p className="text-lg font-semibold text-green-700 dark:text-green-300">Holistic Health</p>
-                <p className="text-sm text-muted-foreground mt-2">Body, Mind & Spirit</p>
+              <img
+              src="https://dg.imgix.net/why-memorize-scripture-en/landscape/why-memorize-scripture-9c50cf27ce0decfef9f72808328627ac.jpg?ts=1530629306&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR"
+              alt="Holistic Health"
+              className="w-full h-full object-cover"
+              />
+              <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
+              <div className="text-center text-white">
+                <p className="text-lg font-semibold"></p>
+                <p className="text-sm"></p>
+              </div>
               </div>
             </motion.div>
           </div>
