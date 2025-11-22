@@ -70,11 +70,10 @@ export default function SermonPage() {
                   The theme for AAIM Sabbath this year is "Bloom where you are planted", an expression which many have possibly heard before in different circles. Although the expression "to bloom" or "to blossom" conjures up figures of flowers, fruits, abundance or thriving, the essence of the phrase implies triumph over hardship.
                 </p>
                 <p>
-                  To bloom where you are planted means to thrive, grow, and make the most of your circumstances regardless of how challenging they may be. It is about finding ways to flourish and succeed in the environment you find yourself in, rather than wishing for different circumstances."
-
-                  <p>
-                    In the context of our lives, this means embracing our current situations, making the best out of them, and striving to grow spiritually, emotionally, and mentally despite any obstacles we may face.
-                  </p>
+                  To bloom where you are planted means to thrive, grow, and make the most of your circumstances regardless of how challenging they may be. It is about finding ways to flourish and succeed in the environment you find yourself in, rather than wishing for different circumstances.
+                </p>
+                <p>
+                  In the context of our lives, this means embracing our current situations, making the best out of them, and striving to grow spiritually, emotionally, and mentally despite any obstacles we may face.
                 </p>
               </div>
             </div>
